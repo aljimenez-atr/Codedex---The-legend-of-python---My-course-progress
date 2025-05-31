@@ -6,6 +6,6 @@
 </div>
 <br>
 
-### Course Website: www.codedex.io/python
+### website of the course taken for this learning process: www.codedex.io/python
 
 <h1>Content index</h1>
