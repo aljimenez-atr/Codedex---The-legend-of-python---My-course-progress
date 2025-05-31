@@ -1,2 +1,11 @@
-# Codedex---The-legend-of-python---My-course-progress
-This is a repository that compiles my progress throughout the course on the Codedex platform.
+<div align="center">
+  <br>
+  <h1>My course progress</h1>
+  <h2>Codedex The legend of python 🐍</h2>
+  <strong>GitHub repository: Focused on recording my progress in solving easy, intermediate, and advanced problems in Python</strong>
+</div>
+<br>
+
+### Course Website: www.codedex.io/python
+
+<h1>Content index</h1>
